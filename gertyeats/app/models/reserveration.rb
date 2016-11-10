@@ -1,0 +1,2 @@
+class Reserveration < ApplicationRecord
+end
